@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076905065602",
+    "firebase_url": "https://election-app-17656.firebaseio.com",
+    "project_id": "election-app-17656",
+    "storage_bucket": "election-app-17656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076905065602:android:61658273d7fbf1bf03889b",
+        "android_client_info": {
+          "package_name": "com.example.electionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076905065602-7cl2h3q3os9smo25e600u4mkh16t1rv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHThlQE72V1gXaXCNfTEuQLjfNE00cTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076905065602-7cl2h3q3os9smo25e600u4mkh16t1rv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
